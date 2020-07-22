@@ -1,6 +1,6 @@
 /*
  Name:		SpoolStorage.ino
- Created:	23/07/2020 01:46:41
+ Created:	20/07/2020 01:46:41
  Author:	Nicosmind
  website: www.nicosmind.com
 */
@@ -14,7 +14,7 @@
 #define touchPad           32
 
 long buttonTimer = 0;
-long longPressTime = 2000; S
+long longPressTime = 2000; 
 
 boolean buttonActive = false;
 boolean longPressActive = false;
